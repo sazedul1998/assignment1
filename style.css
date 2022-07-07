@@ -1,0 +1,161 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner {
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.t1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.t2 {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+    color: white;
+}
+
+.t3 {
+    color: white;
+    background-color: #FF5959;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 16px 12px;
+    border-radius: 5px;
+}
+
+.padding {
+    padding-top: 170px;
+    padding-bottom: 170px;
+}
+
+.t4 {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
+
+.t5 {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.TK {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.t6 {
+    text-align: center;
+    font-size: 30px;
+    color: #707070;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.px {
+    padding: 5px;
+}
+
+.padding2 {
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+
+.flexible-container {
+    display: flex;
+
+}
+
+.expert {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px rgb(88, 11, 11);
+    border-radius: 10px;
+    border-left: 7px solid black;
+}
+
+#ww {
+    background-color: #aaf3fb;
+}
+
+#www {
+    background-color: #fcd5d5;
+}
+
+#wwww {
+    background-color: rgb(240, 240, 180);
+}
+
+.padding3 {
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.padding7 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.foot {
+    background-color: rgb(70, 32, 117);
+}
+
+.t12 {
+    text-align: center;
+    color: white;
+}
+
+.t13 {
+    text-align: center;
+    color: #FF5959;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.btnc {
+    background-color: #FF5959;
+    color: white;
+    size: 10px;
+}
+
+.form {
+    size: 100px;
+}
+
+.la {
+    text-align: center;
+}
